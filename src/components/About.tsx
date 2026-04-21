@@ -66,7 +66,7 @@ export const About = () => {
             {/* Divider quote */}
             <div className="mt-10 pl-5 border-l-2 border-yellow-400/60">
               <p className="text-zinc-300 text-lg italic font-medium">
-                "If I have to do it twice, I automate it."
+                &quot;If I have to do it twice, I automate it.&quot;
               </p>
             </div>
           </div>

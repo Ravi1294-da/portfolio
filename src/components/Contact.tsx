@@ -12,7 +12,7 @@ export const Contact = () => {
             <div className="mb-12 md:mb-0 max-w-lg">
                <h3 className="text-5xl md:text-8xl font-black tracking-tighter mb-6">Let's Talk.</h3>
                <p className="text-xl text-zinc-300 font-medium">
-                  I'm always open to discussing data pipelines, BI architecture, or opportunities to automate workflows.
+                  I&apos;m always open to discussing data pipelines, BI architecture, or opportunities to automate workflows.
                </p>
             </div>
 

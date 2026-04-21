@@ -116,7 +116,7 @@ export const Experience = () => {
         </div>
 
         <h3 className="text-4xl md:text-6xl font-black tracking-tighter mb-16 leading-none">
-          Where I've<br />
+          Where I&apos;ve<br />
           <span style={{ color: "#FFC627" }}>delivered.</span>
         </h3>
 
